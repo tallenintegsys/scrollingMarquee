@@ -3,9 +3,9 @@
 #define LED_PIN  3
 
 #define COLOR_ORDER GRB
-#define CHIPSET     WS2811
+#define CHIPSET     WS2812B
 
-#define BRIGHTNESS 64
+#define BRIGHTNESS 128
 
 // Helper functions for an two-dimensional XY matrix of pixels.
 // Simple 2-D demo code is included as well.
